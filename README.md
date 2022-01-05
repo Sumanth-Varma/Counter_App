@@ -1,3 +1,4 @@
+Counter App
 A simple React Web Application to either increase or decrease a counter.
 
 # Getting Started with Create React App
